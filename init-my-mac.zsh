@@ -92,6 +92,16 @@ brew install --cask mist
 # 网站：https://github.com/Ji4n1ng/OpenInTerminal
 brew install --cask openinterminal-lite
 
+# TAG：开源、完全免费
+# 介绍：一个卸载软件的程序
+# 网站：https://github.com/alienator88/Pearcleaner
+brew install alienator88/homebrew-cask/pearcleaner
+
+# TAG：开源、完全免费
+# 介绍：一个UI很好看的网络接口分析工具
+# 网站：https://sniffnet.net
+brew install sniffnet
+
 # 不必多说部分
 brew install --cask telegram
 brew install --cask discord
