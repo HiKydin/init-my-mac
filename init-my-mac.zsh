@@ -102,6 +102,16 @@ brew install alienator88/homebrew-cask/pearcleaner
 # 网站：https://sniffnet.net
 brew install sniffnet
 
+# TAG：免费
+# 介绍：API 设计、开发、测试一体化协作平台 = Postman + Swagger + Mock + JMeter
+# 网站：https://apifox.com
+brew install --cask apifox
+
+# TAG：开源、完全免费
+# 介绍：开源的 Dock 栏增强工具，当鼠标悬浮在图标上的时候，可以自动展开对应的预览窗
+# 网站：https://github.com/ejbills/DockDoor
+brew install --cask dockdoor
+
 # 不必多说部分
 brew install --cask telegram
 brew install --cask discord
